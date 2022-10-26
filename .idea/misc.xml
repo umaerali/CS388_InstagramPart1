@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/umaer/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/umaer/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/umaer/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/umaer/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_compose.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/umaer/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_feed.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/umaer/AndroidStudioProjects/Instagram/app/src/main/res/layout/item_post.xml" value="0.2076923076923077" />
+        <entry key="..\:/Users/umaer/AndroidStudioProjects/Instagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.253125" />
         <entry key="..\:/Users/umaer/AndroidStudioProjects/Instagram/app/src/main/res/xml/fileprovider.xml" value="0.22826086956521738" />
       </map>
     </option>
